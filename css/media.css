@@ -1,0 +1,669 @@
+@media (max-width: 1024px) {
+    .header__menu h1 {
+        font-size: 20px;
+    }
+    .hero__title h1 {
+        font-size: 45px;
+        line-height: 42px;
+        margin-bottom: -28px;
+    }
+    .hero{
+        margin-top: 30px;
+    }
+    .hero__title p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .hero__img {
+        width: 482px;
+        height: 318px;
+        margin-left: -100px;
+    }
+
+    .courses h1 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .courses__block a  {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .lvl h1 {
+        font-size: 16px;
+        line-height: 13px;
+    }
+    .sale__time {
+        width: 670px;
+        height: 85px;
+        margin-left: -32px;
+    }
+    .time__title h2 {
+        font-size: 20px;
+        line-height: 16px;
+        width: 274px;
+    }
+    .time__title h1 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-left: 35px;
+    }
+    .help a {
+        font-size: 18px;
+        line-height: 25px;
+        padding: -25px 32px;
+        margin-left: 40px;
+    }
+    .help {
+        margin-top: 30px;
+    }
+
+
+
+
+
+    .cards__block {
+        margin-left: 15px;
+    }
+    .card {
+        width: 310px;
+        height: 440px;
+    }
+    .win {
+        width: 286px;
+        height: 172px;
+    }
+    .win img{
+        width: 317px;
+        height: 320px;
+        margin-left: -15px;
+    }
+    .title h3 {
+        padding-top: 173px;
+        font-size: 13px;
+
+    }
+
+
+    .win .img1 {
+        margin-top: -154px;
+    }
+    .shadow1 {
+        margin-left: 70px;
+    }
+    .title h1 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .card2 {
+        width: 286px;
+        height: 80px;
+    }
+    .card2 h1 {
+        font-size: 25px;
+    }
+    .card2 h3 {
+        font-size: 16px;
+    }
+    .card2 img {
+        margin-left: 180px;
+        margin-top: -140px;
+        width: 140px;
+        height: 140px;
+    }
+    .card2 p {
+        margin-left: 195px;
+        margin-top: -30px;
+        font-size: 10px;
+        width: 100px;
+    }
+    .click__me {
+        font-size: 16px;
+        padding: 3px 18px;
+        margin-top: 218px;
+        margin-left: 60px;
+    }
+    .center__click a {
+        margin-left: 169px;
+        font-size: 17px;
+        padding: 2px 9px;
+        padding-top: 12px;
+
+    }
+    .win .img2 {
+        margin-top: -132px;
+        margin-left: -13px;
+        width: 260px;
+        height: 260px;
+    }
+    .shadow2 {
+        margin-left: 56px;
+    }
+    .win .img3 {
+        margin-top: -116px;
+        margin-left: 13px;
+    }
+    .shadow3 {
+        margin-left: 56px;
+    }
+    .click a:nth-child(1) {
+        font-size: 13px;
+
+    }
+    .click a:nth-child(2) {
+        font-size: 11px;
+
+    }
+    .win .img4 {
+        margin-top: -95px;
+        width: 260px;
+        height: 260px;
+        margin-left: 9px;
+    }
+    .shadow4 {
+        margin-left: 56px;
+    }
+    .win .img5 {
+        margin-top: -113px;
+        width: 260px;
+        height: 260px;
+    }
+    .shadow5 {
+        margin-left: 56px;
+    }
+    .win .img6 {
+        margin-top: -134px;
+        width: 300px;
+        height: 300px;
+        margin-left: 9px;
+    }
+    .shadow6 {
+        margin-left: 56px;
+    }
+    .win .img7 {
+        margin-top: -107px;
+        width: 240px;
+        height: 240px;
+        margin-left: 5px;
+    }
+    .shadow7 {
+        margin-left: 56px;
+    }
+    .win .img8 {
+        margin-top: -100px;
+        width: 260px;
+        height: 260px;
+        margin-left: 5px;
+    }
+    .shadow8 {
+        margin-left: 56px;
+    }
+    .courses__linu {
+        height: 2570px;
+    }
+    .feedback {
+        width: 940px;
+        height: 360px;
+    }
+    .title {
+        font-size: 46px;
+    }
+    .feedback__title h1 {
+        font-size: 16px;
+    }
+    .feedback__title h2 {
+        font-size: 10px;
+    }
+    .feedback__input {
+        margin-left: 30px;
+    }
+    .input__name {
+        width: 282px;
+    }
+    .input__tel {
+        margin-top: 1px;
+        width: 282px;
+    }
+    .btn{
+        font-size: 14px;
+    }
+    .feedback__icon {
+        position: absolute;
+        margin-top: -210px;
+        margin-left: 590px;
+        width: 360px;
+        height: 360px;
+    }
+    .cot__ceti {
+        margin-top: 287px;
+        margin-left: 710px;
+    }
+
+    }
+@media (max-width: 768px) {
+    #hero {
+        padding-top: 120px;
+        padding-bottom: 0;
+    }
+    .hero__title h1 {
+        font-size: 34px;
+        line-height: 33px;
+        margin-bottom: -55px;
+    }
+    .hero__title p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .hero__img {
+        width: 272px;
+        height: 208px;
+        margin-left: -220px;
+    }
+    .sale__time {
+        width: 460px;
+        height: 62px;
+        margin-left: -56px;
+        margin-top: -135px;
+    }
+    .time__title h2 {
+        font-size: 13px;
+        line-height: 12px;
+        width: 240px;
+    }
+    .time__title h1 {
+        font-size: 18px;
+        line-height: 15px;
+        margin-left: 34px;
+    }
+    .help {
+        margin-top: 20px;
+    }
+    .help a {
+        font-size: 9px;
+        line-height: 2px;
+        padding: 5px 14px;
+        margin-left: 10px;
+    }
+    .cards {
+        display: block;
+        margin-top: 185px;
+        margin-left: 50px;
+        padding-bottom: 80px;
+    }
+    .courses__linu {
+        height: 4870px;
+    }
+    .feedback {
+        width: 700px;
+        height: 300px;
+    }
+    .title {
+        font-size: 26px;
+    }
+    .feedback__title h1 {
+        font-size: 10px;
+        width: 230px;
+        margin-top: 5px;
+    }
+    .feedback__title h2 {
+        font-size: 8px;
+        width: 204px;
+    }
+    .feedback__input {
+        margin-left: 110px;
+        margin-top: -43px;
+    }
+    .input__name {
+        width: 230px;
+    }
+    .input__tel {
+        width: 230px;
+    }
+    .btn {
+        font-size: 10px;
+    }
+    .feedback__icon {
+        position: absolute;
+        margin-top: -140px;
+        margin-left: 480px;
+        width: 250px;
+        height: 250px;
+    }
+    .cot__ceti {
+        margin-top: 247px;
+        margin-left: 480px;
+    }
+
+}
+@media(max-width: 576px){
+    .icon {
+        margin-left: -10px;
+    }
+    .header__menu a img {
+        width: 40px;
+        height: 45px;
+    }
+    .header__menu h1 {
+        font-size: 18px;
+        margin-top: 12px;
+    }
+    .icon input {
+        position: absolute;
+        margin-left: 7px;
+        background: transparent;
+        border: none;
+        outline: none;
+        height: 30px;
+        color: #FFFFFF;
+        width: 0;
+        opacity: 0;
+        font-size: 10px;
+        border-bottom: 1px solid #fff;
+        padding-right: 30px;
+        transition: all .5s linear;
+    }
+    .icon:hover input {
+        width: 210px;
+        opacity: 1;
+    }
+
+    .icon input:focus {
+        width: 210px;
+        opacity: 1;
+    }
+    .lini {
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        margin-left: -12px;
+        height: 1px;
+        top: 83px;
+        width: 567px;
+    }
+    .hero__title h1 {
+        font-size: 63px;
+        line-height: 50px;
+    }
+    .hero__title p {
+        font-size: 18px;
+
+    }
+    .hero {
+        display: block;
+    }
+    .hero img {
+        width: 323px;
+        height: 276.52px;
+        margin-left: 100px;
+    }
+    #hero {
+        padding-top: 65px;
+    }
+    .sale__time {
+        margin-left: -340px;
+        width: 547px;
+        height: 220px;
+    }
+    .time {
+        display: block;
+        margin-top: 7px;
+    }
+    .time__title {
+        margin-left: 105px;
+    }
+    .help a {
+        margin-left: 95px;
+    }
+    .sale__line2 {
+        margin-top: 10px;
+        margin-left: -12px;
+    }
+    .courses__cards__block {
+        display: block;
+    }
+    .courses__block {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 150px;
+    }
+    .courses__block__napr {
+        display: block;
+    }
+    .courses__block__napr h1 {
+        margin-left: 25px;
+    }
+    .courses__block__napr li {
+        margin-top: 25px;
+        width: 100%;
+    }
+    .kurs1 {
+        width: 233px;
+    }
+    .courses__linu {
+        display: none;
+    }
+    .courses__block__linu {
+        width: 567px;
+        margin-left: 0;
+    }
+    .cards__block {
+        margin-left: 45px;
+    }
+    .cards {
+        display: block;
+    }
+    .card{
+        margin-top: 130px;
+    }
+    .feedback__linu {
+        margin-bottom: 50px;
+        width: 567px;
+        margin-left: -12px;
+    }
+    .feadback__blocks {
+        display: block;
+    }
+    .feedback {
+        width: 547px;
+        height: 660px;
+    }
+    .title {
+        font-size: 54px;
+    }
+    .feedback__title h1 {
+        font-size: 18px;
+    }
+    .feedback__title h2 {
+        margin-top: 250px;
+        margin-left: 120px;
+        position: absolute;
+        font-size: 12px;
+
+    }
+    .feedback__input {
+        margin-left: 55px;
+    }
+    .btn {
+        margin-left: 95px;
+    }
+    .feedback__icon {
+        position: absolute;
+        margin-top: -245px;
+        margin-left: 920px;
+        width: 264.06px;
+        height: 187.27px;
+    }
+    .cot__ceti {
+        margin-top: 580px;
+        margin-left: 160px;
+        border: 1px solid #000;
+    }
+    #feedback {
+        padding-bottom: 50px;
+    }
+}
+@media(max-width: 320px){
+
+    .header__menu a img {
+        width: 30px;
+        height: 35px;
+    }
+    .header__menu h1 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .icon input {
+        position: absolute;
+        margin-left: 7px;
+        background: transparent;
+        border: none;
+        outline: none;
+        height: 30px;
+        color: #FFFFFF;
+        width: 0;
+        opacity: 0;
+        font-size: 10px;
+        border-bottom: 1px solid #fff;
+        padding-right: 30px;
+        transition: all .5s linear;
+    }
+    .icon:hover input {
+        width: 210px;
+        opacity: 1;
+    }
+/*17:43*/
+
+    .icon input:focus {
+        width: 210px;
+        opacity: 1;
+    }
+    .lini {
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        margin-left: -12px;
+        height: 1px;
+        top: 83px;
+        width: 567px;
+    }
+    .hero__title h1 {
+        font-size: 63px;
+        line-height: 50px;
+    }
+    .hero__title p {
+        font-size: 18px;
+
+    }
+    .hero {
+        display: block;
+    }
+    .hero img {
+        width: 323px;
+        height: 276.52px;
+        margin-left: 100px;
+    }
+    #hero {
+        padding-top: 65px;
+    }
+    .sale__time {
+        margin-left: -340px;
+        width: 547px;
+        height: 220px;
+    }
+    .time {
+        display: block;
+        margin-top: 7px;
+    }
+    .time__title {
+        margin-left: 105px;
+    }
+    .help a {
+        margin-left: 95px;
+    }
+    .sale__line2 {
+        margin-top: 10px;
+        margin-left: -12px;
+    }
+    .courses__cards__block {
+        display: block;
+    }
+    .courses__block {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 150px;
+    }
+    .courses__block__napr {
+        display: block;
+    }
+    .courses__block__napr h1 {
+        margin-left: 25px;
+    }
+    .courses__block__napr li {
+        margin-top: 25px;
+        width: 100%;
+    }
+    .kurs1 {
+        width: 233px;
+    }
+    .courses__linu {
+        display: none;
+    }
+    .courses__block__linu {
+        width: 567px;
+        margin-left: 0;
+    }
+    .cards__block {
+        margin-left: 45px;
+    }
+    .cards {
+        display: block;
+    }
+    .card{
+        margin-top: 130px;
+    }
+    .feedback__linu {
+        margin-bottom: 50px;
+        width: 567px;
+        margin-left: -12px;
+    }
+    .feadback__blocks {
+        display: block;
+    }
+    .feedback {
+        width: 547px;
+        height: 660px;
+    }
+    .title {
+        font-size: 54px;
+    }
+    .feedback__title h1 {
+        font-size: 18px;
+    }
+    .feedback__title h2 {
+        margin-top: 250px;
+        margin-left: 120px;
+        position: absolute;
+        font-size: 12px;
+
+    }
+    .feedback__input {
+        margin-left: 55px;
+    }
+    .btn {
+        margin-left: 95px;
+    }
+    .feedback__icon {
+        position: absolute;
+        margin-top: -100px;
+        margin-left: 337px;
+        width: 264.06px;
+        height: 187.27px;
+    }
+    .cot__ceti {
+        margin-top: 580px;
+        margin-left: 160px;
+        border: 1px solid #000;
+    }
+    #feedback {
+        padding-bottom: 50px;
+    }
+}
